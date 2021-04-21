@@ -113,7 +113,7 @@ I can understand and apply the KNN algorithm to solving classification and regre
 I can understand the limitations of the KNN algorithm.
 I can evaluate the performance of the KNN algorithm.
 
-#The Naive Bayes Algorithm
+# The Naive Bayes Algorithm
 I can recall the Bayes rule in the context of the Naive Bayes algorithm.
 I can understand the assumptions taken into consideration while working with the Naive Bayes algorithm.
 I can recall the maximum a posteriori (MAP) hypothesis and the maximum likelihood (ML) hypothesis.
