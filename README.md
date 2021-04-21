@@ -63,3 +63,28 @@ Supervised Learning with Exploratory Data Analysis
 
 I can perform numerical and visual summarization of data.
 I can provide my supervised learning solution having taken into consideration the exploratory data analysis principles.
+
+## Quantile Regression
+I can recognize when to choose Quantile regression. 
+I can explain how Quantile regression differs from other regression models.
+I can apply Quantile regression when solving for business problems.
+I can understand the limitations that come with using Quantile regression.
+
+## Ridge Regression
+I can recognize when to choose Ridge regression. 
+I can explain how Ridge regression differs from other regression models.
+I can apply Ridge regression when solving for business problems.
+I can understand the limitations that come with using Ridge regression.
+
+## Lasso Regression
+I can recognize when to choose Lasso regression. 
+I can explain how Lasso regression differs from other regression models.
+I can apply Lasso regression when solving for business problems.
+I can understand the limitations that come with using Lasso regression.
+
+## ElasticNet Regression 
+I can recognize when to choose Elastic Net regression. 
+I can explain how Elastic Net regression differs from other regression models.
+I can apply Elastic Net regression when solving for business problems.
+I can understand the limitations that come with using Elastic Net regression.
+ 
