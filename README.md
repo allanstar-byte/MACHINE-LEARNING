@@ -88,3 +88,35 @@ I can explain how Elastic Net regression differs from other regression models.
 I can apply Elastic Net regression when solving for business problems.
 I can understand the limitations that come with using Elastic Net regression.
  
+# Decision trees
+I can recognize when to choose decision trees. 
+I can explain the fundamental theory behind decision trees.
+I can apply decision trees when solving business problems, following best practices of optimization.
+I can understand the limitations that come with using decision trees.
+
+# Random forest
+I can recognize when to choose random forest, and contrast it with decision trees. 
+I can apply random forests when solving business problems, following best practices of optimization.
+I can understand the limitations that come with using random forests.
+
+# SVM.
+I can recognize when to choose SVM. 
+I can explain the fundamental theory behind SVM.
+I can apply SVM when solving business problems, following best practices of optimization.
+I can understand the limitations that come with using SVM.
+
+# The K-nearest neighbors (KNN) algorithm
+I can understand the difference between parametric and non-parametric learning.
+I can outline examples of instance-based learning algorithms.
+I can explain the use of distance measures while working with the KNN algorithm.
+I can understand and apply the KNN algorithm to solving classification and regression problems.
+I can understand the limitations of the KNN algorithm.
+I can evaluate the performance of the KNN algorithm.
+
+#The Naive Bayes Algorithm
+I can recall the Bayes rule in the context of the Naive Bayes algorithm.
+I can understand the assumptions taken into consideration while working with the Naive Bayes algorithm.
+I can recall the maximum a posteriori (MAP) hypothesis and the maximum likelihood (ML) hypothesis.
+I can understand and apply the Naive Bayes algorithm to solving data science problems.
+I can understand the limitations of the Naive Bayes algorithm.
+I can evaluate the performance of the Naive Bayes algorithm.
